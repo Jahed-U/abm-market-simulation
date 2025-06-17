@@ -51,14 +51,14 @@ Visual outputs from simulations (in `/results/` folder):
 - `b2 r3.png`
 
 ### 🔹 Learning Agent Simulations
-- `Learning Agent 1.png`
-- `Learning Agent 2.png`
-- `Learning Agent 3.png`
+- `LA r1.png`
+- `LA r2.png`
+- `LA r3.png`
 
 ### 🔹 Technical Agent Simulations
-- `TAm Sim 1.png` – Momentum agent  
-- `TAr Sim 1.png` – Reversal agent  
-- `TA Sim All 1.png` – Both agents together  
+- `TAm Sim 1.png`, `TAm Sim 2.png`, `TAm Sim 3.png` – Momentum agent  
+- `TAr Sim 1.png`, `TAr Sim 2.png`, `TAr Sim 3.png` – Reversal agent  
+- `TArm Sim 1.png`, `TArm Sim 2.png`, `TArm Sim 3.png` – Both agents together  
 
 ---
 
